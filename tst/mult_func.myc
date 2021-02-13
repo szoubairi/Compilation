@@ -1,0 +1,9 @@
+int mul(int n){
+  return 2*n;
+}
+
+int main(){
+    int x;
+    x= mul(5);
+    return x;
+}
