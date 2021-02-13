@@ -1,7 +1,5 @@
 # Compilation project : Myc
 
-# Equipe : Saad Zoubairi , Imad Boudroua
-
 ## Table of Contents
 1. [Présentation du projet](#Description)
 3. [Structure du dépot](#Structure)
